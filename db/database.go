@@ -1,10 +1,10 @@
 package db
 
 import (
-	"gorm.io/driver/postgres"
+	_ "gorm.io/driver/postgres"
 	"gorm.io/gorm"
 )
 
-var(
+var (
 	DBConn *gorm.DB
 )
