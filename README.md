@@ -52,6 +52,4 @@ yarn dev
 
 - [Zakaria EL FATHI](https://github.com/Zakelfathi)
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/Zakelfathi/todolist-with-fiber-go-and-electron-react/blob/master/LICENSE) file for details.
