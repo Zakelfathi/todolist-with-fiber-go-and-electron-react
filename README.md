@@ -25,11 +25,15 @@ git clone https://github.com/Zakelfathi/todolist-with-fiber-go-and-electron-reac
 ```
 
 2. Navigate to the project directory
+```console
 cd todolist-with-fiber-go-and-electron-react
+```
 
 
 3. Install dependencies
+```console
 yarn install
+```
 
 
 4. Set up a PostgreSQL database
