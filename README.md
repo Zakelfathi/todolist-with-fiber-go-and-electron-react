@@ -20,7 +20,9 @@ These instructions will get you a copy of the project up and running on your loc
 ### Installation
 
 1. Clone the repository
+```console 
 git clone https://github.com/Zakelfathi/todolist-with-fiber-go-and-electron-react.git
+```
 
 2. Navigate to the project directory
 cd todolist-with-fiber-go-and-electron-react
