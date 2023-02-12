@@ -39,10 +39,13 @@ yarn install
 4. Set up a PostgreSQL database
 // These steps may vary depending on your setup
 // For example, you may need to create a database and a user with proper privileges
+```console
 createdb todolist
-
+```
 5. Start the development server
+```console
 yarn dev
+```
 
 
 6. The application should now be running on your local machine.
